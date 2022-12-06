@@ -1,5 +1,5 @@
-milesToGallon = float(input())
-costPerGallon = float(input())
+milesToGallon = float(input("Enter miles to the gdallon: "))
+costPerGallon = float(input("Enter the cost of gas: "))
 
 mpg = milesToGallon/costPerGallon
 
