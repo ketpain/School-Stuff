@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Udemy_CSharp_Masterclass
-build_property.ProjectDir = C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\TutorialAndLearning\Udemy CSharp Masterclass\
+build_property.RootNamespace = CS_Code_Stuff
+build_property.ProjectDir = C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CS Code Stuff\

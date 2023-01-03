@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Udemy CSharp Masterclass/1.0.0": {
+      "CS Code Stuff/1.0.0": {
         "runtime": {
-          "Udemy CSharp Masterclass.dll": {}
+          "CS Code Stuff.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Udemy CSharp Masterclass/1.0.0": {
+    "CS Code Stuff/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
