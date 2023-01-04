@@ -13,3 +13,18 @@ C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CS 
 C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CS Code Stuff\obj\Debug\net7.0\CS Code Stuff.pdb
 C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CS Code Stuff\obj\Debug\net7.0\CS Code Stuff.genruntimeconfig.cache
 C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CS Code Stuff\obj\Debug\net7.0\ref\CS Code Stuff.dll
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\bin\Debug\net7.0\CS Code Stuff.exe
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\bin\Debug\net7.0\CS Code Stuff.deps.json
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\bin\Debug\net7.0\CS Code Stuff.runtimeconfig.json
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\bin\Debug\net7.0\CS Code Stuff.dll
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\bin\Debug\net7.0\CS Code Stuff.pdb
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\CS Code Stuff.csproj.AssemblyReference.cache
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\CS Code Stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\CS Code Stuff.AssemblyInfoInputs.cache
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\CS Code Stuff.AssemblyInfo.cs
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\CS Code Stuff.csproj.CoreCompileInputs.cache
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\CS Code Stuff.dll
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\refint\CS Code Stuff.dll
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\CS Code Stuff.pdb
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\CS Code Stuff.genruntimeconfig.cache
+C:\Users\livin\OneDrive\Documents\VS Code Projects\School-and-Tutorial-Stuff\CsConsoleApp\obj\Debug\net7.0\ref\CS Code Stuff.dll
